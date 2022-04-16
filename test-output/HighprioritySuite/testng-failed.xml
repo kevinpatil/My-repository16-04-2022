@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [HighprioritySuite]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="ParallelTest(failed)">
+    <classes>
+      <class name="com.testclass.saucedemo.TS_Overview_finish_function">
+        <methods>
+          <include name="finish_scenario"/>
+          <include name="loginmethod"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_Overview_finish_function -->
+      <class name="com.testclass.saucedemo.TS_yourinfo_continue_function">
+        <methods>
+          <include name="loginmethod"/>
+          <include name="continuefunctionality"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_yourinfo_continue_function -->
+      <class name="com.testclass.saucedemo.TS_Login_function">
+        <methods>
+          <include name="loginmethod"/>
+          <include name="loginfunction"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_Login_function -->
+      <class name="com.testclass.saucedemo.TS_order_complete_back_function">
+        <methods>
+          <include name="ordercomplete_backbutton"/>
+          <include name="loginmethod"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_order_complete_back_function -->
+      <class name="com.testclass.saucedemo.TS_Allproductclass">
+        <methods>
+          <include name="loginmethod"/>
+          <include name="allproductfunction"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_Allproductclass -->
+      <class name="com.testclass.saucedemo.TS_ordercompletepage_confirmation">
+        <methods>
+          <include name="ordercomplete_scenario"/>
+          <include name="loginmethod"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_ordercompletepage_confirmation -->
+      <class name="com.testclass.saucedemo.TS_checkout_functionality">
+        <methods>
+          <include name="loginmethod"/>
+          <include name="checkoutfunction"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_checkout_functionality -->
+      <class name="com.testclass.saucedemo.TS_addcart_function">
+        <methods>
+          <include name="addcartfunctionality"/>
+          <include name="loginmethod"/>
+          <include name="clickiconfunction"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_addcart_function -->
+    </classes>
+  </test> <!-- ParallelTest(failed) -->
+</suite> <!-- Failed suite [HighprioritySuite] -->

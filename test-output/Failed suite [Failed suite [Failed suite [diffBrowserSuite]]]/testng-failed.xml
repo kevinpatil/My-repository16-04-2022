@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [Failed suite [Failed suite [Failed suite [diffBrowserSuite]]]]" guice-stage="DEVELOPMENT">
+  <test thread-count="5" parallel="classes" name="firefoxTest(failed)(failed)(failed)(failed)">
+    <parameter name="browserName" value="firefox"/>
+    <classes>
+      <class name="com.testclass.saucedemo.TS_Overview_finish_function">
+        <methods>
+          <include name="finish_scenario"/>
+          <include name="loginmethod"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_Overview_finish_function -->
+      <class name="com.testclass.saucedemo.TS_order_complete_back_function">
+        <methods>
+          <include name="ordercomplete_backbutton"/>
+          <include name="loginmethod"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_order_complete_back_function -->
+      <class name="com.testclass.saucedemo.TS_ordercompletepage_confirmation">
+        <methods>
+          <include name="ordercomplete_scenario"/>
+          <include name="loginmethod"/>
+          <include name="logoutmethod"/>
+          <include name="Url"/>
+          <include name="closebrowser"/>
+        </methods>
+      </class> <!-- com.testclass.saucedemo.TS_ordercompletepage_confirmation -->
+    </classes>
+  </test> <!-- firefoxTest(failed)(failed)(failed)(failed) -->
+</suite> <!-- Failed suite [Failed suite [Failed suite [Failed suite [diffBrowserSuite]]]] -->

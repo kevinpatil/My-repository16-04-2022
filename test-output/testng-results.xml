@@ -1,0 +1,375 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="9" passed="9" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-04-14T08:54:28 IST" name="HighprioritySuite" finished-at="2022-04-14T08:55:41 IST" duration-ms="73854">
+    <groups>
+    </groups>
+    <test started-at="2022-04-14T08:54:28 IST" name="ParallelTest" finished-at="2022-04-14T08:55:41 IST" duration-ms="73854">
+      <class name="com.testclass.saucedemo.TS_addcart_function">
+        <test-method is-config="true" signature="Url(java.lang.String)[pri:0, instance:com.testclass.saucedemo.TS_addcart_function@131774fe]" started-at="2022-04-14T08:55:04 IST" name="Url" finished-at="2022-04-14T08:55:22 IST" duration-ms="17816" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_addcart_function@131774fe]" started-at="2022-04-14T08:55:22 IST" name="loginmethod" finished-at="2022-04-14T08:55:27 IST" duration-ms="4733" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="addcartfunctionality()[pri:0, instance:com.testclass.saucedemo.TS_addcart_function@131774fe]" started-at="2022-04-14T08:55:27 IST" name="addcartfunctionality" finished-at="2022-04-14T08:55:32 IST" duration-ms="4854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addcartfunctionality -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_addcart_function@131774fe]" started-at="2022-04-14T08:55:32 IST" name="logoutmethod" finished-at="2022-04-14T08:55:32 IST" duration-ms="444" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_addcart_function@131774fe]" started-at="2022-04-14T08:55:32 IST" name="loginmethod" finished-at="2022-04-14T08:55:35 IST" duration-ms="3396" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="clickiconfunction()[pri:0, instance:com.testclass.saucedemo.TS_addcart_function@131774fe]" started-at="2022-04-14T08:55:35 IST" name="clickiconfunction" finished-at="2022-04-14T08:55:40 IST" duration-ms="4156" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickiconfunction -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_addcart_function@131774fe]" started-at="2022-04-14T08:55:40 IST" name="logoutmethod" finished-at="2022-04-14T08:55:40 IST" duration-ms="163" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.testclass.saucedemo.TS_addcart_function@131774fe]" started-at="2022-04-14T08:55:40 IST" name="closebrowser" finished-at="2022-04-14T08:55:41 IST" duration-ms="1284" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testclass.saucedemo.TS_addcart_function -->
+      <class name="com.testclass.saucedemo.TS_order_complete_back_function">
+        <test-method is-config="true" signature="Url(java.lang.String)[pri:0, instance:com.testclass.saucedemo.TS_order_complete_back_function@36bc55de]" started-at="2022-04-14T08:55:04 IST" name="Url" finished-at="2022-04-14T08:55:22 IST" duration-ms="17539" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_order_complete_back_function@36bc55de]" started-at="2022-04-14T08:55:22 IST" name="loginmethod" finished-at="2022-04-14T08:55:26 IST" duration-ms="4124" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="ordercomplete_backbutton()[pri:0, instance:com.testclass.saucedemo.TS_order_complete_back_function@36bc55de]" started-at="2022-04-14T08:55:26 IST" name="ordercomplete_backbutton" finished-at="2022-04-14T08:55:28 IST" duration-ms="2226" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordercomplete_backbutton -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_order_complete_back_function@36bc55de]" started-at="2022-04-14T08:55:28 IST" name="logoutmethod" finished-at="2022-04-14T08:55:28 IST" duration-ms="255" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.testclass.saucedemo.TS_order_complete_back_function@36bc55de]" started-at="2022-04-14T08:55:28 IST" name="closebrowser" finished-at="2022-04-14T08:55:33 IST" duration-ms="5014" status="FAIL">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeoutWithNoExecutor(MethodInvocationHelper.java:348)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:281)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:266)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:130)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testclass.saucedemo.TS_order_complete_back_function -->
+      <class name="com.testclass.saucedemo.TS_yourinfo_continue_function">
+        <test-method is-config="true" signature="Url(java.lang.String)[pri:0, instance:com.testclass.saucedemo.TS_yourinfo_continue_function@35cabb2a]" started-at="2022-04-14T08:54:28 IST" name="Url" finished-at="2022-04-14T08:54:52 IST" duration-ms="23966" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_yourinfo_continue_function@35cabb2a]" started-at="2022-04-14T08:54:52 IST" name="loginmethod" finished-at="2022-04-14T08:54:57 IST" duration-ms="5113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="continuefunctionality()[pri:0, instance:com.testclass.saucedemo.TS_yourinfo_continue_function@35cabb2a]" started-at="2022-04-14T08:54:57 IST" name="continuefunctionality" finished-at="2022-04-14T08:55:01 IST" duration-ms="3768" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- continuefunctionality -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_yourinfo_continue_function@35cabb2a]" started-at="2022-04-14T08:55:01 IST" name="logoutmethod" finished-at="2022-04-14T08:55:01 IST" duration-ms="210" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.testclass.saucedemo.TS_yourinfo_continue_function@35cabb2a]" started-at="2022-04-14T08:55:01 IST" name="closebrowser" finished-at="2022-04-14T08:55:06 IST" duration-ms="5059" status="FAIL">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeoutWithNoExecutor(MethodInvocationHelper.java:348)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:281)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:266)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:130)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testclass.saucedemo.TS_yourinfo_continue_function -->
+      <class name="com.testclass.saucedemo.TS_Overview_finish_function">
+        <test-method is-config="true" signature="Url(java.lang.String)[pri:0, instance:com.testclass.saucedemo.TS_Overview_finish_function@7e07db1f]" started-at="2022-04-14T08:54:28 IST" name="Url" finished-at="2022-04-14T08:54:52 IST" duration-ms="23944" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_Overview_finish_function@7e07db1f]" started-at="2022-04-14T08:54:52 IST" name="loginmethod" finished-at="2022-04-14T08:54:57 IST" duration-ms="5193" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="finish_scenario()[pri:0, instance:com.testclass.saucedemo.TS_Overview_finish_function@7e07db1f]" started-at="2022-04-14T08:54:57 IST" name="finish_scenario" finished-at="2022-04-14T08:55:01 IST" duration-ms="4151" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- finish_scenario -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_Overview_finish_function@7e07db1f]" started-at="2022-04-14T08:55:01 IST" name="logoutmethod" finished-at="2022-04-14T08:55:01 IST" duration-ms="355" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.testclass.saucedemo.TS_Overview_finish_function@7e07db1f]" started-at="2022-04-14T08:55:01 IST" name="closebrowser" finished-at="2022-04-14T08:55:06 IST" duration-ms="5020" status="FAIL">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeoutWithNoExecutor(MethodInvocationHelper.java:348)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:281)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:266)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:130)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testclass.saucedemo.TS_Overview_finish_function -->
+      <class name="com.testclass.saucedemo.TS_checkout_functionality">
+        <test-method is-config="true" signature="Url(java.lang.String)[pri:0, instance:com.testclass.saucedemo.TS_checkout_functionality@1189dd52]" started-at="2022-04-14T08:54:28 IST" name="Url" finished-at="2022-04-14T08:54:52 IST" duration-ms="23971" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_checkout_functionality@1189dd52]" started-at="2022-04-14T08:54:52 IST" name="loginmethod" finished-at="2022-04-14T08:54:57 IST" duration-ms="5535" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="checkoutfunction()[pri:0, instance:com.testclass.saucedemo.TS_checkout_functionality@1189dd52]" started-at="2022-04-14T08:54:57 IST" name="checkoutfunction" finished-at="2022-04-14T08:54:59 IST" duration-ms="1626" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- checkoutfunction -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_checkout_functionality@1189dd52]" started-at="2022-04-14T08:54:59 IST" name="logoutmethod" finished-at="2022-04-14T08:54:59 IST" duration-ms="305" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.testclass.saucedemo.TS_checkout_functionality@1189dd52]" started-at="2022-04-14T08:54:59 IST" name="closebrowser" finished-at="2022-04-14T08:55:04 IST" duration-ms="5037" status="FAIL">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeoutWithNoExecutor(MethodInvocationHelper.java:348)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:281)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:266)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:130)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testclass.saucedemo.TS_checkout_functionality -->
+      <class name="com.testclass.saucedemo.TS_Login_function">
+        <test-method is-config="true" signature="Url(java.lang.String)[pri:0, instance:com.testclass.saucedemo.TS_Login_function@5158b42f]" started-at="2022-04-14T08:54:28 IST" name="Url" finished-at="2022-04-14T08:54:52 IST" duration-ms="23956" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_Login_function@5158b42f]" started-at="2022-04-14T08:54:52 IST" name="loginmethod" finished-at="2022-04-14T08:54:57 IST" duration-ms="5465" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="loginfunction()[pri:0, instance:com.testclass.saucedemo.TS_Login_function@5158b42f]" started-at="2022-04-14T08:54:57 IST" name="loginfunction" finished-at="2022-04-14T08:54:58 IST" duration-ms="498" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginfunction -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_Login_function@5158b42f]" started-at="2022-04-14T08:54:58 IST" name="logoutmethod" finished-at="2022-04-14T08:54:58 IST" duration-ms="673" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.testclass.saucedemo.TS_Login_function@5158b42f]" started-at="2022-04-14T08:54:58 IST" name="closebrowser" finished-at="2022-04-14T08:55:04 IST" duration-ms="5718" status="FAIL">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeoutWithNoExecutor(MethodInvocationHelper.java:348)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:281)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:266)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:130)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testclass.saucedemo.TS_Login_function -->
+      <class name="com.testclass.saucedemo.TS_Allproductclass">
+        <test-method is-config="true" signature="Url(java.lang.String)[pri:0, instance:com.testclass.saucedemo.TS_Allproductclass@57a3af25]" started-at="2022-04-14T08:55:06 IST" name="Url" finished-at="2022-04-14T08:55:23 IST" duration-ms="16135" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_Allproductclass@57a3af25]" started-at="2022-04-14T08:55:23 IST" name="loginmethod" finished-at="2022-04-14T08:55:27 IST" duration-ms="4694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="allproductfunction()[pri:0, instance:com.testclass.saucedemo.TS_Allproductclass@57a3af25]" started-at="2022-04-14T08:55:27 IST" name="allproductfunction" finished-at="2022-04-14T08:55:41 IST" duration-ms="13417" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- allproductfunction -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_Allproductclass@57a3af25]" started-at="2022-04-14T08:55:41 IST" name="logoutmethod" finished-at="2022-04-14T08:55:41 IST" duration-ms="232" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.testclass.saucedemo.TS_Allproductclass@57a3af25]" started-at="2022-04-14T08:55:41 IST" name="closebrowser" finished-at="2022-04-14T08:55:41 IST" duration-ms="511" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testclass.saucedemo.TS_Allproductclass -->
+      <class name="com.testclass.saucedemo.TS_ordercompletepage_confirmation">
+        <test-method is-config="true" signature="Url(java.lang.String)[pri:0, instance:com.testclass.saucedemo.TS_ordercompletepage_confirmation@7f3b84b8]" started-at="2022-04-14T08:55:06 IST" name="Url" finished-at="2022-04-14T08:55:23 IST" duration-ms="17293" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Url -->
+        <test-method is-config="true" signature="loginmethod()[pri:0, instance:com.testclass.saucedemo.TS_ordercompletepage_confirmation@7f3b84b8]" started-at="2022-04-14T08:55:23 IST" name="loginmethod" finished-at="2022-04-14T08:55:27 IST" duration-ms="4113" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginmethod -->
+        <test-method signature="ordercomplete_scenario()[pri:0, instance:com.testclass.saucedemo.TS_ordercompletepage_confirmation@7f3b84b8]" started-at="2022-04-14T08:55:27 IST" name="ordercomplete_scenario" finished-at="2022-04-14T08:55:29 IST" duration-ms="1878" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ordercomplete_scenario -->
+        <test-method is-config="true" signature="logoutmethod()[pri:0, instance:com.testclass.saucedemo.TS_ordercompletepage_confirmation@7f3b84b8]" started-at="2022-04-14T08:55:29 IST" name="logoutmethod" finished-at="2022-04-14T08:55:30 IST" duration-ms="386" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logoutmethod -->
+        <test-method is-config="true" signature="closebrowser()[pri:0, instance:com.testclass.saucedemo.TS_ordercompletepage_confirmation@7f3b84b8]" started-at="2022-04-14T08:55:30 IST" name="closebrowser" finished-at="2022-04-14T08:55:37 IST" duration-ms="7008" status="FAIL">
+          <exception class="org.testng.internal.thread.ThreadTimeoutException">
+            <message>
+              <![CDATA[Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.testng.internal.thread.ThreadTimeoutException: Method com.testclass.saucedemo.BasetestClass.closebrowser() didn't finish within the time-out 5000
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeoutWithNoExecutor(MethodInvocationHelper.java:348)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:281)
+at org.testng.internal.MethodInvocationHelper.invokeWithTimeout(MethodInvocationHelper.java:266)
+at org.testng.internal.MethodInvocationHelper.invokeMethodConsideringTimeout(MethodInvocationHelper.java:64)
+at org.testng.internal.ConfigInvoker.invokeConfigurationMethod(ConfigInvoker.java:385)
+at org.testng.internal.ConfigInvoker.invokeConfigurations(ConfigInvoker.java:321)
+at org.testng.internal.TestMethodWorker.invokeAfterClassMethods(TestMethodWorker.java:217)
+at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:130)
+at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+at java.base/java.lang.Thread.run(Thread.java:833)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.testng.internal.thread.ThreadTimeoutException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closebrowser -->
+      </class> <!-- com.testclass.saucedemo.TS_ordercompletepage_confirmation -->
+    </test> <!-- ParallelTest -->
+  </suite> <!-- HighprioritySuite -->
+</testng-results>
